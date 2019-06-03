@@ -12,6 +12,7 @@ public class fb_login
 	public void m1()
 	{
 		System.out.println("Hello java");
+		System.out.println("Hello Selenium");
 	}
 
 	public static void main(String[] args) 
