@@ -12,6 +12,7 @@ public class fb_login
 	public void m1()
 	{
 		System.out.println("Hello java");
+		System.out.println("hi this is facebook login page");
 	}
 
 	public static void main(String[] args) 
